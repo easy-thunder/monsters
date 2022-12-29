@@ -1,3 +1,4 @@
+/*
 // creating a container for monster data to go to//
 const monsterContainer = document.querySelector('#monster-container')
 
@@ -117,6 +118,7 @@ function postMonster(name, age, description){
 }
 
 
+*/
 
 
 
